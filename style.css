@@ -12,7 +12,10 @@ body {
 
 a {
     text-decoration: none;
+    /*color: #fff;
     color: #fff;
+    color: #fff;*/
+    color: #ff5;
 }
 
 body {
@@ -49,9 +52,11 @@ body {
     cursor: pointer;
     z-index: 1;
 }
-
 .theme-toggler.active {
-    color: #333;
+/*color: #333;
+    //color: #333;
+    //color: #333;*/
+    color: #30b3d4;
 }
 
 .theme-toggler.active::before {
